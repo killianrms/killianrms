@@ -1,16 +1,12 @@
-### Salut, Je suis Killianrms [website] 👋
+### Salut, Je suis Killianrms 👋
 
-[![Website](https://killianrms.fr)](https://killianrms.fr)
 
-## I'm a Software Engineer!
+## Étudiant en informatique
 
 - 🔭 Je travail actuellement sur [Fortnite Bots](https://github.com/killianrms/lobbybot).
 - 💼 Je fais mes études dans l'iut de Montpellier-Sète
 
-### Spotify Playing 🎧
-[<img src="https://novatorem.luc1412.vercel.app/api/spotify" alt="Killianrms Spotify Playing" width="350" />](https://open.spotify.com/user/7yk3it9sa8xkwisvom4f03kes)
-
-### Languages and Tools:
+### Mes compétences :
 
 #### Languages:
 <p align="left">
