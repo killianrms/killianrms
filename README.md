@@ -4,7 +4,7 @@
 ## Étudiant en informatique
 
 - 🔭 Je travaille actuellement sur [Fortnite Bots](https://github.com/killianrms/lobbybot).
-- 💼 Je fais mes études dans l'iut de Montpellier-Sète
+- 💼 Je fais mes études à l'iut de Montpellier-Sète
 
 ### Mes compétences :
 
