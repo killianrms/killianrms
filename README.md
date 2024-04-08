@@ -38,6 +38,6 @@
 
 ---
 
-[website]: https://killianrms.fr
+[website]: https://killianrms.com
 [linkedin]: https://www.linkedin.com/in/killian-ramus-aa5447264/
 [instagram]: https://www.instagram.com/killianrms/
