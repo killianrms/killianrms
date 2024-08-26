@@ -3,7 +3,7 @@
 
 ## Étudiant en informatique
 
-- 🔭 Je travaille actuellement sur [trading_telegram_bot]([https://github.com/killianrms/prototype_trader_bot]).
+- 🔭 Je travaille actuellement sur (trading_telegram_bot)[https://github.com/killianrms/prototype_trader_bot].
 - 💼 Je fais mes études à l'iut de Montpellier-Sète
 
 ### Mes compétences :
