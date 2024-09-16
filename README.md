@@ -38,6 +38,7 @@
 
 ---
 
-[website]: https://killianrms.com
+[portfolio]: https://killianrms.com
+[cv] : https://killianrms.com/cv.pdf
 [linkedin]: https://www.linkedin.com/in/killian-ramus-aa5447264/
 [instagram]: https://www.instagram.com/killianrms/
