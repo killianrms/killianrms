@@ -1,10 +1,8 @@
 ### Salut, Je suis Killianrms 👋
 
-
-## Étudiant en informatique
-
 - 🔭 Je travaille actuellement sur [trading_telegram_bot](https://github.com/killianrms/prototype_trader_bot).
-- 💼 Je fais mes études à l'iut de Montpellier-Sète
+- 📍 Étudiant à l'iut de Montpellier-Sète
+- 💼 [portfolio](https://killianrms.com) | [cv](https://killianrms.com/cv.pdf)
 
 ### Mes compétences :
 
@@ -24,27 +22,9 @@
   <img align="center" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 </p>  
 
-#### IDEs:
-<p align="left">
-  <img align="center" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm" />
-  <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSC" />
-</p>
-<p>
-  
-</p>
-
 <br />
 <br />
 
 #### Contacts:
 
 contact@killianrms.com
-<br />
-<br />
-[portfolio](https://killianrms.com)
-<br />
-[cv](https://killianrms.com/cv.pdf)
-<br />
-[linkedin](https://www.linkedin.com/in/killian-ramus-aa5447264)
-<br />
-[instagram](https://www.instagram.com/killianrms)
