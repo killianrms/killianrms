@@ -36,9 +36,14 @@
 <br />
 <br />
 
----
+#### Contacts:
 
+contact@killianrms.com
+<br />
 [portfolio](https://killianrms.com)
+<br />
 [cv](https://killianrms.com/cv.pdf)
+<br />
 [linkedin](https://www.linkedin.com/in/killian-ramus-aa5447264)
+<br />
 [instagram](https://www.instagram.com/killianrms)
