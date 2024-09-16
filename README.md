@@ -2,7 +2,7 @@
 
 - 🔭 Je travaille actuellement sur [trading_telegram_bot](https://github.com/killianrms/prototype_trader_bot).
 - 📍 Étudiant à l'iut de Montpellier-Sète
-- 💼 [portfolio](https://killianrms.com) | [cv](https://killianrms.com/cv.pdf)
+- 💼 [Portfolio](https://killianrms.com) | [Cv](https://killianrms.com/cv.pdf)
 
 ### Mes compétences :
 
