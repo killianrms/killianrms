@@ -20,14 +20,13 @@
 <p align="left">
   <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   <img align="center" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
-  <img align="center" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
   <img align="center" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img align="center" src="https://img.shields.io/badge/Linux-A81D33?style=for-the-badge&logo=Linux&logoColor=white" alt="Linux" />
 </p>  
 
 #### Logiciels:
 <p align="left">
   <img align="center" src="https://img.shields.io/badge/Google%20Suite-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Suite" />
-  <img align="center" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Suite" />
   <img align="center" src="https://img.shields.io/badge/JetBrains%20Suite-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains Suite" />
   <img align="center" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img align="center" src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
