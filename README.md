@@ -2,7 +2,7 @@
 
 - 🔭 Je travaille actuellement sur un [Système de référendum](https://github.com/killianrms/SAE-Votes) en java pour l'université et un [Bot de trading](https://github.com/killianrms/prototype_trader_bot) en python pour un projet perso
 - 📍 Étudiant à l'IUT de Montpellier-Sète
-- 💼 [Portfolio](https://killianrms.com) | [CV](https://killianrms.com/cv.pdf)
+- 💼 [Portfolio](https://killianrms.com) - [CV](https://killianrms.com/cv.pdf)
 
 ### Mes compétences :
 
