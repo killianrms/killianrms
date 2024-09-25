@@ -1,6 +1,6 @@
 ### Salut, Je suis Killianrms 👋
 
-- 🔭 Je travaille actuellement sur [Système de référendum - Projet Universitaire](https://github.com/killianrms/SAE-Votes) et [Bot de trading - Projet Perso](https://github.com/killianrms/prototype_trader_bot)
+- 🔭 Je travaille actuellement sur un [Système de référendum - Projet Universitaire](https://github.com/killianrms/SAE-Votes) et un [Bot de trading - Projet Perso](https://github.com/killianrms/prototype_trader_bot)
 - 📍 Étudiant à l'IUT de Montpellier-Sète
 - 💼 [Portfolio](https://killianrms.com) | [CV](https://killianrms.com/cv.pdf)
 
