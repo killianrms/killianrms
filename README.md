@@ -1,6 +1,6 @@
 ### Salut, Je suis Killianrms 👋
 
-- 🔭 Je travaille actuellement sur un [Système de référendum](https://github.com/killianrms/referendum) en java pour l'université et un [Bot de trading](https://github.com/killianrms/prototype_trader_bot) en python pour un projet perso
+- �� Je travaille actuellement sur un [Système de référendum](https://github.com/killianrms/referendum) en java pour l'université et un [Bot de trading](https://github.com/killianrms/prototype_trader_bot) en python pour un projet perso
 - 📍 Étudiant à l'IUT de Montpellier-Sète
 - 💼 [Portfolio](https://killianrms.com) - [Cv](https://killianrms.com/cv.pdf)
 
