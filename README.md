@@ -55,11 +55,3 @@ Ou découvrir mes travaux et mon parcours :
 ## 📊 Mes statistiques GitHub (en temps réel)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=killianrms&layout=compact&theme=dark)
-
----
-
-Merci de ta visite, n’hésite pas à me suivre et à jeter un œil à mes projets !  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="animation codage" width="200"/>
-</p>
