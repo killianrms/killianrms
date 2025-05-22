@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👨‍💻 Killian RMS | Développeur & Étudiant en Informatique
+# 👨‍💻 Killian Ramus | Développeur & Étudiant en Informatique
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-killianrms.com-blue?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://killianrms.com)
 [![Email](https://img.shields.io/badge/Email-contact%40killianrms.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@killianrms.com)
