@@ -3,8 +3,8 @@
 Je suis étudiant en informatique à l'IUT de Montpellier-Sète, passionné par le développement logiciel et les projets innovants.  
 Je travaille actuellement sur deux projets majeurs :  
 
-- 🔭 [Système de référendum en Java](https://github.com/killianrms/referendum) — un outil de vote sécurisé pour un projet universitaire  
-- 🤖 [Bot de trading en Python](https://github.com/killianrms/prototype_trader_bot) — projet perso d’automatisation et d’analyse des marchés financiers  
+- 🔭 [Système de référendum en Java](https://github.com/killianrms/referendum) - un outil de vote sécurisé pour un projet universitaire  
+- 🤖 [Bot de trading en Python](https://github.com/killianrms/prototype_trader_bot) - projet perso d’automatisation et d’analyse des marchés financiers  
 
 ---
 
