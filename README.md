@@ -9,7 +9,6 @@
 
 </div>
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killianrms&layout=compact&theme=tokyonight&hide_border=true" />
 
 ## 🚀 À propos de moi
 
@@ -25,6 +24,8 @@
 - 🤝 Expérience en travail d'équipe et gestion de projets agiles
 
 </details>
+
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killianrms&layout=compact&theme=tokyonight&hide_border=true" />
 
 ## 💻 Projets phares
 
