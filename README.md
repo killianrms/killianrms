@@ -91,6 +91,4 @@ Je suis toujours ouvert aux opportunités de collaboration sur des projets innov
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=killianrms&color=blueviolet&style=flat-square&label=Visiteurs+du+Profil" alt="Profile views" />
-  
-  <sub>Dernière mise à jour: Mai 2025</sub>
-</div>
+  </div>
