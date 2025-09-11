@@ -9,8 +9,6 @@
 
 </div>
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killianrms&layout=compact&theme=tokyonight&hide_border=true" />
-
 ## 🚀 À propos de moi
 
 Étudiant passionné en informatique à l'IUT de Montpellier-Sète, je me spécialise dans le développement logiciel et la création de solutions innovantes. Mon parcours combine formation académique et projets personnels ambitieux pour développer des compétences techniques solides et une approche créative de la résolution de problèmes.
