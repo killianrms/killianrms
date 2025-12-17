@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=3F86FA&center=true&vCenter=true&width=600&lines=Killian+Ramus;D%C3%A9veloppeur+Fullstack;Etudiant+en+Informatique;Passionn%C3%A9+d'Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=3F86FA&center=true&vCenter=true&width=600&lines=Killian+Ramus;Ing%C3%A9nieur+d%C3%A9veloppement+et+projet+chez+Itesoft;Etudiant+en+Informatique;Passionn%C3%A9+d'Innovation" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://killianrms.com">
