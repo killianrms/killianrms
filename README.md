@@ -20,11 +20,6 @@
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=killianrms&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killianrms&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&hide=jupyter%20notebook" height="150" alt="languages graph"  />
-</div>
-
 ## 🚀 À propos de moi
 
 Étudiant passionné en informatique à l'IUT de Montpellier-Sète, je me spécialise dans le développement logiciel et la création de solutions innovantes. Mon parcours combine formation académique et projets personnels ambitieux pour développer des compétences techniques solides et une approche créative de la résolution de problèmes.
@@ -76,11 +71,8 @@
 ## 🐍 Contributions
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=killianrms&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Streak Stats" />
-  <br />
-  <!-- Snake animation will appear here after the workflow runs -->
   <a href="https://github.com/killianrms/killianrms/actions/workflows/snake.yml">
-    <img src="https://github.com/killianrms/killianrms/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+    <img src="https://raw.githubusercontent.com/killianrms/killianrms/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   </a>
 </div>
 
